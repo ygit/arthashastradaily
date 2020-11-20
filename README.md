@@ -5,7 +5,7 @@ Twitter: https://twitter.com/arthashastraji
 
 Medium: https://medium.com/@arthashastradaily
 
-![Motto Pic](https://github.com/arthashastraji/arthashastradaily/blob/main/1500x500-2.jpeg)
+![Motto Pic](https://github.com/arthashastraji/arthashastradaily/blob/main/CancelPoverty.jpeg)
 
 ---
 
@@ -44,3 +44,4 @@ NIFTY MIDCAP 100 PE / PBV : 368.58 / 2.47
 NIFTY SMALLCAP 100 PE / PBV :  41.12 / 2.65
 
 ----
+![Mission Pic](https://github.com/arthashastraji/arthashastradaily/blob/main/PositiveSumGame.jpeg)
