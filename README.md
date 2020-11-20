@@ -1,6 +1,9 @@
 # Arthashastra Daily
 Economic News from various financial portals
 
+Twitter: https://twitter.com/arthashastraji
+Medium: https://medium.com/@arthashastradaily
+
 ![Motto Pic](https://github.com/arthashastraji/arthashastradaily/blob/main/1500x500-2.jpeg)
 
 ---
