@@ -3,7 +3,9 @@ Economic News from various financial portals
 
 ![Motto Pic](https://github.com/arthashastraji/arthashastradaily/blob/main/1500x500-2.jpeg)
 
-20, Nov, 2020
+---
+
+### 20, Nov, 2020 
 
 BSE Sensex: 43882.25 (+282.29)
 
@@ -36,3 +38,5 @@ NIFTY 50 PE / PBV : 35.56 / 3.64
 NIFTY MIDCAP 100 PE / PBV : 368.58 / 2.47
 
 NIFTY SMALLCAP 100 PE / PBV :  41.12 / 2.65
+
+----
