@@ -1,4 +1,6 @@
 # Arthashastra Daily
+
+
 Economic News from various financial portals
 
 Twitter: https://twitter.com/arthashastraji
@@ -6,6 +8,27 @@ Twitter: https://twitter.com/arthashastraji
 Medium: https://medium.com/@arthashastradaily
 
 ![Motto Pic](https://github.com/arthashastraji/arthashastradaily/blob/main/CancelPoverty.jpeg)
+
+---
+
+India’s renewable energy (RE) sector is world’s 4th most attractive RE market. Why?
+
+Globally, cost to generate Solar Energy dropped by 90% & Wind Energy costs by 70% in past 10 years
+Costs almost at par with natural gas!
+Global investments in RE : $282 Bn in 2019
+45% coming from China, who aims to get 62% energy via Renewable Energy in next 3 years.
+By 2040, India aims to generate ~49% of total electricity from Renewable Energy
+Past 9 months slowed domestic solar installations by 80% in comparison to 2019.
+World’s top 5 oil companies made ~$900 Bn in profits in past 10 years. RE is already grabbing a bite of this quickly doubling ‘energy need’ pie.
+Reliance and Adani Green are also scaling efforts.
+Stock of Adani Green Energy up 25x in 1.5 years!
+RIL aims to be net carbon zero by 2035.
+•Global Funds grabbing bites of India’s RE assets:
+1) KKR launches Virescent for RE investments
+2) EQT and Temasek set up O2 Power, a $500Mn RE platform
+3) Other players actively involved include Goldman Sachs, Brookfield, SoftBank, CPPIB, JERA, GIC.
+ReNew Power, Warburg Pincus backed CleanMax and Morgan Stanley owned Continuum Wind Energy, few key RE Indian players aiming for IPOs soon
+Do you think India can execute with speed to achieve targets in next 10 years or will it be a bumpy ride?
 
 ---
 
