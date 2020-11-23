@@ -7,6 +7,8 @@ Twitter: https://twitter.com/arthashastraji
 
 Medium: https://medium.com/@arthashastradaily
 
+Website: https://ygit.github.io/arthashastradaily/
+
 ![Motto Pic](https://raw.githubusercontent.com/ygit/arthashastradaily/main/CancelPoverty.jpeg)
 
 ---
